@@ -1,0 +1,17 @@
+import Launchpad, { SELECTED_COLOUR, ACTIVE_COLOUR } from './Launchpad';
+import {
+	LAUNCHPAD_TOP_ROW,
+	LAUNCHPAD_RIGHT_ROW,
+	LAUNCHPAD_NOTE_GRID,
+	EMPTY_GRID,
+} from './launchpadGrids';
+
+export default Launchpad;
+export {
+	SELECTED_COLOUR,
+	ACTIVE_COLOUR,
+	LAUNCHPAD_TOP_ROW,
+	LAUNCHPAD_RIGHT_ROW,
+	LAUNCHPAD_NOTE_GRID,
+	EMPTY_GRID,
+};
